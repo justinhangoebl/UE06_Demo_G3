@@ -1,0 +1,2 @@
+This is the second file from hans namded file1.txt
+with a second line
